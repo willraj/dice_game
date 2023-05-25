@@ -1,0 +1,27 @@
+.con {
+text-align: center;
+}
+#title{
+    background-color: gray;
+    height: 180px;
+    
+}
+#title>h1{
+    font-size: 90px;
+}
+.con{
+    background-color: gray;
+}
+.footer{
+  background-color: black;
+  height: 200px;
+  text-align: center;
+}   
+.footer>p{ 
+    font-size: 16px;
+    color: white;
+    margin-top:75px;
+}
+.dice{
+    margin-bottom: 50px;
+}
